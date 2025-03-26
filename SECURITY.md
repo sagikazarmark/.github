@@ -18,4 +18,4 @@ Please **DO NOT**:
 
 Give me a few days to reply.
 
-If you have a potential patch for the vulnerability, wait for me to set up a private fork to work on
+If you have a potential patch for the vulnerability, wait for me to set up a private fork to work on.
