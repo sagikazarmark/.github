@@ -4,6 +4,9 @@
 
 To report a security issue, please use the "Report a vulnerability" button under the Security tab.
 
+> [!TIP]
+> Read GitHub's [documentation](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability#privately-reporting-a-security-vulnerability) about privately reporting vulnerabilities.
+
 Make sure to include:
 
 - description of the vulnerability
