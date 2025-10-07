@@ -1,7 +1,7 @@
 {
   "name": "CI base",
   "description": "A basic template for continuous integration",
-  "iconName": "octicon note",
+  "iconName": "octicon workflow",
   "categories": ["Continuous integration"],
   "filePatterns": []
 }
