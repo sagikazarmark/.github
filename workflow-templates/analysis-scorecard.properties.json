@@ -1,0 +1,7 @@
+{
+  "name": "OpenSSF Scorecard",
+  "description": "OpenSSF Scorecard template",
+  "iconName": "note",
+  "categories": ["Continuous integration", "Monitoring"],
+  "filePatterns": []
+}
