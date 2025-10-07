@@ -1,7 +1,7 @@
 {
   "name": "CI for a Go library",
   "description": "A continuous integration template for Go libraries",
-  "iconName": "ci-go-library.svg",
+  "iconName": "ci-go-library",
   "categories": ["Continuous integration"],
   "filePatterns": ["go.mod"]
 }
