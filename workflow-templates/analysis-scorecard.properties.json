@@ -2,6 +2,6 @@
   "name": "OpenSSF Scorecard",
   "description": "OpenSSF Scorecard template",
   "iconName": "octicon note",
-  "categories": ["Continuous integration", "Monitoring"],
+  "categories": ["Security"],
   "filePatterns": []
 }
