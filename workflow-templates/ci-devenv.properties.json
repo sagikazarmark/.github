@@ -1,0 +1,7 @@
+{
+  "name": "CI for a Devenv project",
+  "description": "A continuous integration template for projects using Devenv",
+  "iconName": "ci-devenv",
+  "categories": ["Continuous integration"],
+  "filePatterns": ["devenv.yaml"]
+}
